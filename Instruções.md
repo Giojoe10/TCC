@@ -26,8 +26,8 @@ Aulas não precenciais pelo Teams as Terças Feiras das 19:00 as 22:00.
     ~~Identificação do Orientador; (se possível)~~
 
 ##  2. Metodologia
-    Etapas de desenvolvimento;
-    Cronograma;
+    ~~Etapas de desenvolvimento;~~
+    ~~Cronograma;~~
     Levantamento de Requisitos;
 
 ##  3. Projeto
