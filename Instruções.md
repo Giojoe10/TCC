@@ -16,14 +16,14 @@ Aulas não precenciais pelo Teams as Terças Feiras das 19:00 as 22:00.
 # ETAPAS DO DESENVLOVIMENTO DO PROJETO DE TG1
 
 ##  1. Introdução
-    Sumário;
-    Identificação do Problema;
-    Levantamento de Requisitos;
-    Descrição da solução proposta;
-    Identificação das tecnologias;
-    Identificação dos recursos necessários;
-    Revisão bibliográfica; (sobre o assunto a ser tratado)
-    Identificação do Orientador; (se possível)
+    ~~Sumário;~~
+    ~~Identificação do Problema;~~
+    ~~Levantamento de Requisitos;~~
+    ~~Descrição da solução proposta;~~
+    ~~Identificação das tecnologias;~~
+    ~~Identificação dos recursos necessários;~~
+    ~~Revisão bibliográfica; (sobre o assunto a ser tratado)~~
+    ~~Identificação do Orientador; (se possível)~~
 
 ##  2. Metodologia
     Etapas de desenvolvimento;
