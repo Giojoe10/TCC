@@ -28,14 +28,12 @@ Aulas não precenciais pelo Teams as Terças Feiras das 19:00 as 22:00.
 ##  2. Metodologia
     ~~Etapas de desenvolvimento;~~
     ~~Cronograma;~~
-    Levantamento de Requisitos;
 
 ##  3. Projeto
-    Diagrama de Caso de Uso;
-    Diagrama de Classes;
-    Diagrama de Atividades;
-    DER;
-    Dicionário de Dados;
+    Diagrama de Caso de Uso; (Conversar com Professor Wagner)
+    ~~Diagrama de Classes;~~
+    ~~Diagrama de Atividades;~~
+    ~~Dicionário de Dados;~~
 
 ##  4. Desenvolvimento do Protótipo
     Descrição das Telas ;
